@@ -16,14 +16,12 @@ npm install -g firebase-tools
 firebase login:ci
 ```
 
-![Firebase]('/images/firebase_ci.jpg')
+![Firebase](/images/firebase_ci.jpg)
 
-2. Check the list of projects available
+2. Check the list of projects available. It display the list of project's available.
 
 ```
 firebase projects:list
 ```
 
-![Firebase project list]('/images/firebase_list.jpg')
-
-3. It display the list of project's available.
+![Firebase project list](/images/firebase_list.jpg)
