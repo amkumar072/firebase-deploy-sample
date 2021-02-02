@@ -66,3 +66,17 @@ Initilization is completed. By the time you would able to see the 3 files are cr
 ![Firebase commands](/images/firebase_cmds.jpg)
 
 ## Deploy to Firebase
+
+Now we are in final part of the process. Deploy your project with following commands.
+
+note: Make sure project is already built (npm run build)
+
+```
+firebase deploy
+```
+
+Changes will deploy into Firebase and URL will be display in Console.
+
+![Firebase deploy](/images/firebase_deploy.jpg)
+
+Happy Deployment :)
